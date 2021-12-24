@@ -4,7 +4,7 @@
 #include <pthread.h>
 #include <unistd.h>
 #define N 10
-#define SIZE 100
+#define SIZE 5
 #define True 1
 
 int counter = 0;
